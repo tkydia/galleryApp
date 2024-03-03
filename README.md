@@ -2,34 +2,48 @@
 
 ## Installation
 
-- Clone the project
+- Cloner le projet
 
 ```
  git clone https://github.com/tkydia/galleryApp.git
 ```
 
-- Open directory
+- Ouvrir le dossier
 
 ```
- cd galleryapp
+ cd galleryApp
 ```
 
-- Install npm
+- Installer npm
 
 ```
-npm install
+ npm install
 ```
 
-- Open Vscode
+- Installer expo-av
 
 ```
-code .
+ npx expo install expo-av
 ```
 
-- Run the app
+- Ouvrir VScode
 
 ```
-npm expo start
+ code .
 ```
 
-- Test on your device in Expo go by scanning
+- Installer Expo Go sur son portable
+
+- Demarrer l'appli
+
+```
+ npx expo start
+```
+
+- Scanner le qr code a partir de la camera pour ouvrir sur Iphone ou directement via l'appli sur Android
+
+## Dependences
+
+- React native 0.73.4
+- Firebase 10.8.0
+- Expo 50.0.8
