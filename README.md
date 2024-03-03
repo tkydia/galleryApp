@@ -20,12 +20,6 @@
  npm install
 ```
 
-- Installer expo-av
-
-```
- npx expo install expo-av
-```
-
 - Ouvrir VScode
 
 ```
