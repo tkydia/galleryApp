@@ -5,31 +5,31 @@
 - Cloner le projet
 
 ```
- git clone https://github.com/tkydia/galleryApp.git
+git clone https://github.com/tkydia/galleryapp.git
 ```
 
 - Ouvrir le dossier
 
 ```
- cd galleryApp
+cd galleryapp
 ```
 
 - Installer npm
 
 ```
- npm install
+npm install
 ```
 
 - Installer expo-av
 
 ```
- npx expo install expo-av
+npx expo install expo-av
 ```
 
 - Ouvrir VScode
 
 ```
- code .
+code .
 ```
 
 - Installer Expo Go sur son portable
@@ -37,7 +37,7 @@
 - Demarrer l'appli
 
 ```
- npx expo start
+npx expo start
 ```
 
 - Scanner le qr code a partir de la camera pour ouvrir sur Iphone ou directement via l'appli sur Android
